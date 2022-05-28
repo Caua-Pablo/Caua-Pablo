@@ -1,6 +1,6 @@
  ## YO! MY NAME IS CAUÃ, I'M SOFTWARE ENGINEER STUDENT 
  ## WELCOME :)
-- CURRENTLY LEARNING PYTHON
+- CURRENTLY LEARNING Java
 
 <div align="left">
   <a href="https://github.com/Caua-Pablo">

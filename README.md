@@ -1,6 +1,6 @@
- ## YO! MY NAME IS CAUÃ, I'M SOFTWARE ENGINEER STUDENT 
+ ## YO! MY NAME IS CAUÃ, I'M SOFTWARE ENGINEER STUDENT AND ASPIRING INFORMATION SECURITY 
  ## WELCOME :)
-- CURRENTLY LEARNING Java
+
 
 <div align="left">
   <a href="https://github.com/Caua-Pablo">
